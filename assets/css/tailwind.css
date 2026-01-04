@@ -12,3 +12,8 @@ p {
     font-size: medium;
     margin-top: 2%;
 }
+
+.nav {
+
+    gap: auto;
+}

@@ -3,7 +3,7 @@
         <header class="shadow-sm bg-white p-4"> 
         <nav class="container mx-auto p-4 ">
 
-            <NuxtLink to="/" class="text-xl font-bold">CIL FABRICATORS</NuxtLink>
+            <NuxtLink to="/" class="text-3xl font-bold font-serif antialiased md:subpixel-antialiased">CIL FABRICATORS</NuxtLink>
             
         </nav>
 
@@ -34,6 +34,6 @@
 
 </script>
 
-<style lang="scss" scoped>
+<style scoped>
 
 </style>

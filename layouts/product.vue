@@ -1,12 +1,7 @@
 <template>
     <div>
         <header> CIL FABRICATORS</header>
-        <nav>
-            
-            <NuxtLink to="./products">Go Back to Products</NuxtLink>
-            
-        </nav>
-
+        
         <div>
             <!--Page Content-->
 

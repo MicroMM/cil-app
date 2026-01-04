@@ -17,3 +17,8 @@ p {
 
     gap: auto;
 }
+
+body {
+
+    @apply bg-gray-50;
+}
